@@ -1,0 +1,35 @@
+
+  .home1{
+      width: 100%;
+  }
+  .home11{
+    background-color: black;
+}
+
+
+.div2{
+	width:100%;
+	height:1000px;
+	
+}
+.tb1{
+	width:100%;
+	text-align:center;
+}
+p{
+    color:orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: 600;
+}
+.slct{
+    background-color: lightskyblue;
+    color:white ;
+}
+.sliderimg{
+ margin-left:10%;
+
+  }
+
+
+
